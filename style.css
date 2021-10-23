@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+}
+#app{
+    background-color: bisque;
+}
+#game{
+    background-color: burlywood;
+}
+.line{
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+    background-color: cornsilk;
+}
+h1{
+    color: cornsilk;
+}
